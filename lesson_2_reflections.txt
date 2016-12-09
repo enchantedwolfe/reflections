@@ -34,5 +34,10 @@ organized? How would branches help?
 6. What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+		The result of merging two branches together is
+		the label from one of the branches is removed, and
+		the commits from that branch are enveloped in the 
+		checked out branch. 
+
 7. What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
