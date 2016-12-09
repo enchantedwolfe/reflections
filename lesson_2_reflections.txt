@@ -27,6 +27,10 @@ organized? How would branches help?
 
 5. How do the diagrams help you visualize the branch structure?
 
+		Diagrams helped to establish the relationship
+		between all of the versions of a repository. 
+		It helps to see it visually
+
 6. What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
