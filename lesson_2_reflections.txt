@@ -1,14 +1,22 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-a .git folder appears, so your can keep track of each change you make to a file
+		What happens when you initialize a repository is your
+		files in whatever directory has been initialized as a 
+		repository become tracked.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
-gives you room to start the commits for the repository
+		The staging area is an intermediate area that doesn't reflect
+		any changes on the repository, or directory. It offers value in that it allows for incremental changes to made instead of a ton of changes all at once. It gives flexibility where it is needed.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+
+		The staging area allows you to see exactly what you want to 
+		change. It helps in that it singles out the files to change in a commit. If more than one file is in the staging area, it
+		means changes are happening to more than one file in the 
+		repository.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
